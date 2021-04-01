@@ -1,0 +1,19 @@
+section {
+    padding: 100px;
+}
+
+.mySlides {
+    justify-content: center;
+    padding-left: 50px;
+}
+h2 {
+    text-align: center;
+}
+h3 p{ 
+    text-align: left;
+    padding-left: 50px;
+}
+
+.container {
+    align-items: center;
+}
