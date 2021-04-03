@@ -8,12 +8,39 @@ section {
 }
 h2 {
     text-align: center;
+    color: #006f90;
+    font-weight: bold;
 }
-h3 p{ 
+h3 { 
     text-align: left;
     padding-left: 50px;
+    color: #006f90;
 }
 
 .container {
     align-items: center;
+    background-color: #006f90;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.gif {
+    justify-content: center;
+    padding-left: 600px;
+}
+
+
+.jumbotron {
+    background-image: none;
+}
+
+.w3-third {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.col-sm {
+    padding-left: 50px;
 }
